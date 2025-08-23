@@ -3,7 +3,7 @@
 [Worksheet #01: Single Neuron Simulator](https://docs.google.com/document/d/1VUxvhrI8i_2mxxIqB9e4Y2RZPk69Id76yiddq302e8U/edit?usp=drive_link) [Solution](https://docs.google.com/document/d/1EKOux3ee7yfh7YKC34j9RmToJwmKgKAvk8Bm0FwXSy8/edit?usp=drive_link)  
 [Worksheet #02: How Zestimate Works](https://docs.google.com/document/d/1VsJqBAyiVG5nDBkZNhB4CE8wRcbfCE61Xgf00_AC5EQ/edit?usp=drive_link) [Solution](https://docs.google.com/document/d/1QoTa1DoURrSuW__ZPebImJ2OPSmo-jPOW6K2aezB79M/edit?usp=drive_link)  
 
-<b>Week 2</>  
+<b>Week 2</b>  
 [How GenAI Works](https://www.dropbox.com/scl/fi/l7cok2snp9s5ukzmy3fmv/EHUB-AI-by-Chung-2025-How-GenAI-Works.pptx?rlkey=mn68ljymfxdxvgoweapou1ojq&dl=0)  
 [TikTokenizer](https://tiktokenizer.vercel.app/)  
 [Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
