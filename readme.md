@@ -11,13 +11,16 @@
 [Attention Google Sheets](https://tinyurl.com/4h5wvucu)  
 
 <b>Week 3</b>  
+[Case: AlphaAgents](https://arxiv.org/pdf/2508.11152)  
 [Vibe Coding & Team Project Instructions](https://docs.google.com/presentation/d/1Y8hoK1MePy468Yz6gJhMHbs4MJ4RkKKPcSySzhEjdnw/edit?usp=sharing)  
 
 <b>Week 4</b>  
 [How Computer Vision Works]  
+[Case: LandingLens]  
 
 <b>Week 5</b>  
 [How Recommenders Work]  
+[Case: Netflix or Amazon]  
 
 <b>Week 6</b>  
 [We need a new ethics in a world of AI agents](https://www.nature.com/articles/d41586-025-02454-5)  
