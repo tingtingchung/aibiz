@@ -14,6 +14,7 @@
 
 <b>Week 3</b>  
 [Case: AlphaAgents](https://arxiv.org/pdf/2508.11152)  
+[Discussion: LLM and Porfolio Selection](https://www.linkedin.com/posts/yongjae-lee-548982107_llms-for-portfolio-selection-yongjae-lee-ugcPost-7358759780062031872-4CWa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABvuugBphFnUugDOTstBNFiWlp6ks-XiQ4)  
 [Vibe Coding & Team Project Instructions](https://docs.google.com/presentation/d/1Y8hoK1MePy468Yz6gJhMHbs4MJ4RkKKPcSySzhEjdnw/edit?usp=sharing)  
 
 <b>Week 4</b>  
