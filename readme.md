@@ -25,6 +25,7 @@
 [Case: Netflix or Amazon]  
 
 <b>Week 6</b>  
+[Fairness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5402916)  
 [We need a new ethics in a world of AI agents](https://www.nature.com/articles/d41586-025-02454-5)  
 
 References  
