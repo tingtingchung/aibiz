@@ -1,4 +1,6 @@
 <b>Week 1</b>  
+[AI Street](https://www.ai-street.co/)  
+[AI Fund](https://aifund.ai/)  
 [How Deep Learning (DL) Works](https://www.dropbox.com/scl/fi/xg6mbc2yt2a18timvdrx4/EHUB-AI-by-Chung-2025-How-AI-Works.pptx?rlkey=m8aou9f741qi4q4b8fu2m0kbg&dl=0)  
 [Worksheet #01: Single Neuron Simulator](https://docs.google.com/document/d/1VUxvhrI8i_2mxxIqB9e4Y2RZPk69Id76yiddq302e8U/edit?usp=drive_link) [Solution]  
 [Worksheet #02: How Zestimate Works](https://docs.google.com/document/d/1VsJqBAyiVG5nDBkZNhB4CE8wRcbfCE61Xgf00_AC5EQ/edit?usp=drive_link) [Solution]  
