@@ -4,7 +4,7 @@
 [How Deep Learning (DL) Works](https://www.dropbox.com/scl/fi/xg6mbc2yt2a18timvdrx4/EHUB-AI-by-Chung-2025-How-AI-Works.pptx?rlkey=m8aou9f741qi4q4b8fu2m0kbg&dl=0)  
 [Worksheet #01: Single Neuron Simulator](https://docs.google.com/document/d/1VUxvhrI8i_2mxxIqB9e4Y2RZPk69Id76yiddq302e8U/edit?usp=drive_link) [Solution]  
 [Worksheet #02: How Zestimate Works](https://docs.google.com/document/d/1VsJqBAyiVG5nDBkZNhB4CE8wRcbfCE61Xgf00_AC5EQ/edit?usp=drive_link) [Solution]  
-
+[BigQuery](https://www.kaggle.com/competitions/bigquery-ai-hackathon/overview/evaluation)  
 <b>Week 2</b>  
 [How GenAI Works](https://www.dropbox.com/scl/fi/l7cok2snp9s5ukzmy3fmv/EHUB-AI-by-Chung-2025-How-GenAI-Works.pptx?rlkey=mn68ljymfxdxvgoweapou1ojq&dl=0)  
 [TikTokenizer](https://tiktokenizer.vercel.app/)  
