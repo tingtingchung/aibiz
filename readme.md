@@ -1,7 +1,7 @@
 This schedule is tentative and subject to change.
 
 <b>Week 1</b>  
-[Course Overview]  
+[Course Overview](https://www.dropbox.com/scl/fi/rlvdjgutlu7fmgndvveg5/AIBiz-Course-Overview.pptx?rlkey=1dnztlzw4erxmehbjw1s44af7&dl=0)    
 [How Deep Learning (DL) Works](https://www.dropbox.com/scl/fi/jmb2wwmzl4r4xmuy80r1o/UG-AIBiz-Chung-W1-How-DL-Works.pptx?rlkey=s8nov5syjassr4cb6c0vw5s1d&dl=0)  
 [Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?gid=2001141573#gid=2001141573)  
 [Worksheet #1: Single Neuron Simulator](https://docs.google.com/document/d/1VUxvhrI8i_2mxxIqB9e4Y2RZPk69Id76yiddq302e8U/edit?usp=drive_link) [solution]  
