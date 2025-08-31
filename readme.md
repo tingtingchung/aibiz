@@ -39,5 +39,5 @@ Team #9 Brief: [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](htt
 Team #10 Brief: [AI Fund](https://aifund.ai/) (tentative)  
 Individual Quiz  
 
-<b>Week 7</b>
-Final Team Presentations
+<b>Week 7</b>  
+Final Team Presentations  
