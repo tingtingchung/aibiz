@@ -4,7 +4,7 @@ This schedule is tentative and subject to change.
 [Course Overview]  
 [How Deep Learning (DL) Works](https://www.dropbox.com/scl/fi/xg6mbc2yt2a18timvdrx4/EHUB-AI-by-Chung-2025-How-AI-Works.pptx?rlkey=m8aou9f741qi4q4b8fu2m0kbg&dl=0)  
 [Worksheet #1: Single Neuron Simulator](https://docs.google.com/document/d/1VUxvhrI8i_2mxxIqB9e4Y2RZPk69Id76yiddq302e8U/edit?usp=drive_link) [solution]  
-[Team Project Overview: Vibe Coding](https://docs.google.com/presentation/d/1Y8hoK1MePy468Yz6gJhMHbs4MJ4RkKKPcSySzhEjdnw/edit?usp=sharing)  
+[Team Project Overview: Vibe Coding](https://www.dropbox.com/scl/fi/hklcdikx34hburo57kd8z/04-Team-Project-with-Vibe-Coding.pptx?rlkey=vtemey03pfw7eztuw1tik5v2i&e=1&dl=0)  
 
 <b>Week 2</b>  
 [Team #1 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
@@ -40,4 +40,4 @@ This schedule is tentative and subject to change.
 Individual Quiz  
 
 <b>Week 7</b>  
-Final Team Presentations  
+[Final Team Presentations](https://docs.google.com/presentation/d/1SEWCxxhZAZVX3wLPMaREJMcyA6UJ8ho8rYSEoLdsa1c/edit?slide=id.p#slide=id.p)  
