@@ -1,36 +1,42 @@
 This schedule is tentative and subject to change.
 
 <b>Week 1</b>  
+[Course Overview]
 [How Deep Learning (DL) Works](https://www.dropbox.com/scl/fi/xg6mbc2yt2a18timvdrx4/EHUB-AI-by-Chung-2025-How-AI-Works.pptx?rlkey=m8aou9f741qi4q4b8fu2m0kbg&dl=0)  
-[Worksheet #01: Single Neuron Simulator](https://docs.google.com/document/d/1VUxvhrI8i_2mxxIqB9e4Y2RZPk69Id76yiddq302e8U/edit?usp=drive_link) [Solution]  
-[Worksheet #02: How Zestimate Works](https://docs.google.com/document/d/1VsJqBAyiVG5nDBkZNhB4CE8wRcbfCE61Xgf00_AC5EQ/edit?usp=drive_link) [Solution]  
-[AI Street](https://www.ai-street.co/) & [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
-
-<b>Week 2</b>  
-Team 1 Brief (tentative): [Operartis](https://www.operartis.com/)  
-[How Computer Vision Works]  
+[Worksheet #1: Single Neuron Simulator](https://docs.google.com/document/d/1VUxvhrI8i_2mxxIqB9e4Y2RZPk69Id76yiddq302e8U/edit?usp=drive_link) [Solution]  
 [Team Project Overview: Vibe Coding](https://docs.google.com/presentation/d/1Y8hoK1MePy468Yz6gJhMHbs4MJ4RkKKPcSySzhEjdnw/edit?usp=sharing)  
 
+<b>Week 2</b>  
+Team #1 Brief: [AI Street](https://www.ai-street.co/) & [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
+Team #2 Brief: [Neural Zestimate](https://www.zillow.com/tech/building-the-neural-zestimate/) (tentative) 
+[Worksheet #2: How Zestimate Works] [Solution]  
+[How Computer Vision Works]  
+[Worksheet #3: Computer Vision] [Solution]
+
 <b>Week 3</b>  
-Team 2 Brief (tentative): [LandingLens](https://landing.ai/landinglens)  
+Team #3 Brief: [Operartis](https://www.operartis.com/)  
+Team #4 Brief: [LandingLens](https://landing.ai/landinglens) (tentative)  
 [How Recommenders Work]  
 [Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
 [Team Project Overview: Agents]  
 
 <b>Week 4</b>  
-Team 3 Brief (tentative): [Stitch Fix](https://algorithms-tour.stitchfix.com/)  
+Team #5 Brief: [AI Street](https://www.ai-street.co/) & [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
+Team #6 Brief: [Stitch Fix](https://algorithms-tour.stitchfix.com/) (tentative) 
 [How GenAI Works](https://www.dropbox.com/scl/fi/l7cok2snp9s5ukzmy3fmv/EHUB-AI-by-Chung-2025-How-GenAI-Works.pptx?rlkey=mn68ljymfxdxvgoweapou1ojq&dl=0)  
 [TikTokenizer](https://tiktokenizer.vercel.app/)  
-[Worksheet #03: How LLMs Work](https://docs.google.com/document/d/1nZAcStoLL7KAxbgppmm-m-NumVZNzxjTjKLmvQPU4as/edit?usp=drive_link) [Solution]  
+[Worksheet #4: How LLMs Work] [Solution]  
 [Attention Google Sheets](https://tinyurl.com/4h5wvucu)  
 
 <b>Week 5</b>  
-Team 4 Brief (tentative): [AlphaAgent at Blackrock](https://arxiv.org/pdf/2508.11152)    
-Ethics, Responsibility, and Explainability  
+Team #7 Brief: [AI Street](https://www.ai-street.co/) & [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
+Team #8 Brief: [AlphaAgent at Blackrock](https://arxiv.org/pdf/2508.11152) (tentative)    
+[Ethics, Responsibility, and Explainability]  
 [Anatomy of an AI System](https://anatomyof.ai/)  
 
-<b>Week 6</b> 
-Team 5 Brief (tentative): [AI Fund](https://aifund.ai/)  
+<b>Week 6</b>  
+Team #9 Brief: [AI Street](https://www.ai-street.co/) & [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
+Team #10 Brief: [AI Fund](https://aifund.ai/) (tentative)  
 Individual Quiz  
 
 <b>Week 7</b>
