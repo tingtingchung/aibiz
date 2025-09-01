@@ -32,7 +32,7 @@ This schedule is tentative and subject to change.
 <b>Week 5</b>  
 [Team #7 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
 [Team #8 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AlphaAgent at Blackrock](https://arxiv.org/pdf/2508.11152)      
-[Ethics, Responsibility, and Explainability]  
+[Ethics, Responsibility, and Explainability](https://pair-code.github.io/what-if-tool/ai-fairness.html)  
 [Anatomy of an AI System](https://anatomyof.ai/)  
 
 <b>Week 6</b>  
