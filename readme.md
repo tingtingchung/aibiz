@@ -36,7 +36,7 @@ This schedule is tentative and subject to change.
 [Anatomy of an AI System](https://anatomyof.ai/)  
 
 <b>Week 6</b>  
-[Team #9 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
+[Team #9 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [JP Morgan](https://www.jpmorgan.com/technology/artificial-intelligence)  
 [Team #10 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Fund](https://aifund.ai/)  
 Individual Quiz  
 
