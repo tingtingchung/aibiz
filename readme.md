@@ -9,7 +9,7 @@ This schedule is tentative and subject to change.
 
 <b>Week 2</b>  
 [Team #1 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
-[Team #2 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Neural Zestimate](https://www.zillow.com/tech/building-the-neural-zestimate/) 
+[Team #2 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Neural Zestimate](https://www.zillow.com/tech/building-the-neural-zestimate/)  
 [Worksheet #2: How Zestimate Works] [solution]  
 [How Computer Vision Works]  
 [Worksheet #3: Computer Vision] [solution]  
