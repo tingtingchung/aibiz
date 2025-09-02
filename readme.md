@@ -32,6 +32,7 @@ Read before next class meeting (optional): [A Word is Worth A Thousand Vectors b
 [Team #5 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
 [Team #6 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Stitch Fix](https://algorithms-tour.stitchfix.com/)  
 [How GenAI Works](https://www.dropbox.com/scl/fi/l7cok2snp9s5ukzmy3fmv/EHUB-AI-by-Chung-2025-How-GenAI-Works.pptx?rlkey=mn68ljymfxdxvgoweapou1ojq&dl=0)  
+[Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/dev/ngrams/ngrams.html)  
 [TikTokenizer](https://tiktokenizer.vercel.app/)  
 [Worksheet #4: How LLMs Work] [solution]  
 [Attention Google Sheets](https://tinyurl.com/4h5wvucu)  
