@@ -50,7 +50,7 @@ Read before next class meeting: [Gabriel, I., Keeling, G., Manzini, A., & Evans,
 [Team #9 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [JP Morgan](https://www.jpmorgan.com/technology/artificial-intelligence)  
 [Team #10 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Fund](https://aifund.ai/)  
 Individual Quiz  
-Read before next class meeting: [Lichtinger, Guy and Hosseini Maasoum, Seyed Mahdi and Hosseini Maasoum, Seyed Mahdi, Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data (August 31, 2025). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)   
+Read before next class meeting: [Lichtinger, Guy and Hosseini Maasoum, Seyed Mahdi, Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data (August 31, 2025). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)   
 
 <b>Week 7</b>  
 [Final Team Presentations](https://docs.google.com/presentation/d/1SEWCxxhZAZVX3wLPMaREJMcyA6UJ8ho8rYSEoLdsa1c/edit?slide=id.p#slide=id.p)  
