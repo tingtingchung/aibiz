@@ -23,8 +23,10 @@ Watch before next class meeting: [Linear Algebra by TensorFlow](https://youtu.be
 [Team #4 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [LandingLens](https://landing.ai/landinglens)  
 [How Recommenders Work]  
 [Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
+[Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/)  
 [Team Project Overview: Agents]  
-Read before next class meeting: [A Word is Worth A Thousand Vectors by Chris Moody at Stitch Fix](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)  
+Read before next class meeting: [Word Embedding Demo: A Tutorial](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/tutorial.html)  
+Read before next class meeting (optional): [A Word is Worth A Thousand Vectors by Chris Moody at Stitch Fix](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)  
 
 <b>Week 4</b>  
 [Team #5 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
