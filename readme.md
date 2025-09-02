@@ -5,7 +5,6 @@ This schedule is tentative and subject to change.
 [How Deep Learning (DL) Works](https://www.dropbox.com/scl/fi/jmb2wwmzl4r4xmuy80r1o/UG-AIBiz-Chung-W1-How-DL-Works.pptx?rlkey=s8nov5syjassr4cb6c0vw5s1d&dl=0)  
 [Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?gid=2001141573#gid=2001141573)  
 [Worksheet #1: Single Neuron Simulator](https://docs.google.com/document/d/1r-xIvuhR9fwrBoLQmX67PP89HQQ7KtpMZuIitUi0Ye4/edit?usp=sharing) [solution]  
-[NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)  
 [Team Project Overview: Vibe Coding](https://www.dropbox.com/scl/fi/hklcdikx34hburo57kd8z/04-Team-Project-with-Vibe-Coding.pptx?rlkey=vtemey03pfw7eztuw1tik5v2i&e=1&dl=0)  
 Read before next class meeting: [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/)  
 Watch before next class meeting: [How AI could empower any business by Andrew Ng](ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
@@ -14,6 +13,7 @@ Watch before next class meeting: [How AI could empower any business by Andrew Ng
 [Team #1 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
 [Team #2 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Neural Zestimate](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [Worksheet #2: How Zestimate Works] [solution]  
+[NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)  
 [How Computer Vision Works]  
 [Worksheet #3: Computer Vision] [solution]  
 Watch before next class meeting: [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
