@@ -8,18 +8,18 @@ This schedule is tentative and subject to change.
 Read before next class meeting: [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/)  
 Watch before next class meeting: [How AI could empower any business by Andrew Ng](ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 
-<b>Week 2: Regression, classification, and computer vision</b>  
+<b>Week 2: From regression to classification</b>  
 [Team #1 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
 [Team #2 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Neural Zestimate](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
-[Worksheet #2: How Zestimate Works] [solution]  
-[NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)  
-[How Computer Vision Works]  
-[Worksheet #3: Computer Vision] [solution]  
+[Worksheet #2: From regression to classification with Zestimate] [solution]  
+[NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)   
 Watch before next class meeting: [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
 
 <b>Week 3: Computer vision and recommenders</b>  
 [No Team #3]
 [Team #4 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [LandingLens](https://landing.ai/landinglens)  
+[How computer vision works]
+[Worksheet #3: Computer Vision] [solution]  
 [How Recommenders Work]  
 [Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
 [Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/)  
