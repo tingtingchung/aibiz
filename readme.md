@@ -2,7 +2,7 @@ This schedule is tentative and subject to change.
 
 <b>Week 1: From a single neuron to neural networks</b>  
 [Course Overview](https://www.dropbox.com/scl/fi/rlvdjgutlu7fmgndvveg5/AIBiz-Course-Overview.pptx?rlkey=1dnztlzw4erxmehbjw1s44af7&dl=0)    
-[How Deep Learning (DL) Works](https://www.dropbox.com/scl/fi/jmb2wwmzl4r4xmuy80r1o/UG-AIBiz-Chung-W1-How-DL-Works.pptx?rlkey=s8nov5syjassr4cb6c0vw5s1d&dl=0) [Video](https://youtu.be/9Ig7vG6Kyjg)  
+[Lecture: How Deep Learning (DL) Works](https://www.dropbox.com/scl/fi/jmb2wwmzl4r4xmuy80r1o/UG-AIBiz-Chung-W1-How-DL-Works.pptx?rlkey=s8nov5syjassr4cb6c0vw5s1d&dl=0) [Video](https://youtu.be/9Ig7vG6Kyjg)  
 [Worksheet #1](https://docs.google.com/document/d/1r-xIvuhR9fwrBoLQmX67PP89HQQ7KtpMZuIitUi0Ye4/edit?usp=drive_link) [Video](https://youtu.be/Q7X6DnCKcW4)  
 [Team Project Overview: Vibe Coding](https://www.dropbox.com/scl/fi/hklcdikx34hburo57kd8z/04-Team-Project-with-Vibe-Coding.pptx?rlkey=vtemey03pfw7eztuw1tik5v2i&e=1&dl=0)  
 Read before next class meeting: [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/)  
@@ -11,6 +11,8 @@ Watch before next class meeting: [How AI could empower any business by Andrew Ng
 <b>Week 2: From regression to classification</b>  
 [Team #1 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
 [Team #2 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Neural Zestimate](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
+[Lecture: DL for Regression]  
+[Lecture: DL for Classification]  
 [Worksheet #2: From regression to classification with Zestimate] [solution]  
 [NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)   
 Watch before next class meeting: [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
