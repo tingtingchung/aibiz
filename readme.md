@@ -10,7 +10,6 @@ Watch before next class meeting: [How AI could empower any business by Andrew Ng
 
 <b>Week 2: From regression to classification</b>  
 [Team #1 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
-[Team #2 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Neural Zestimate](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [Lecture: DL for Regression]  
 [Lecture: DL for Classification]  
 [Demo: AI Functions](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?usp=sharing)  
@@ -21,7 +20,8 @@ Watch before next class meeting: [Linear Algebra by TensorFlow](https://youtu.be
 Watch before next class meeting: [How we're teaching computers to understand pictures by Dr. Fei-fei Li](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures)  
 
 <b>Week 3: Computer vision and recommenders</b>  
-[No Team #3]
+[Team #2 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Neural Zestimate](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
+[No Team #3]  
 [Team #4 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [LandingLens](https://landing.ai/landinglens)  
 [How computer vision works]
 [Worksheet #3: Computer Vision] [solution]  
