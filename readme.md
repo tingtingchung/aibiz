@@ -20,12 +20,12 @@ Watch before next class meeting: [How we're teaching computers to understand pic
 
 <b>Week 3: Computer vision and recommenders</b>  
 [Team #2 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Neural Zestimate](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
-[No Team #3]  
-[Team #4 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [LandingLens](https://landing.ai/landinglens)  
+[No Team #3 or Team #4]  
 [How computer vision works]
+[Demo: LandingLens](https://landing.ai/landinglens)  
 [Worksheet #3: Computer Vision] [solution]  
 [How Recommenders Work]  
-[Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
+[Demo: Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
 [Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/)  
 [Team Project Overview: Agents]  
 Read before next class meeting: [Word Embedding Demo: A Tutorial](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/tutorial.html)  
@@ -55,6 +55,5 @@ Watch before next class meeting: [End of privacy by Michał Kosiński](https://w
 [Team #10 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Fund](https://aifund.ai/)  
 Individual Quiz  
 Read before next class meeting: [Lichtinger, Guy and Hosseini Maasoum, Seyed Mahdi, Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data (August 31, 2025). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)   
-
 <b>Week 7</b>  
 [Final Team Presentations](https://docs.google.com/presentation/d/1SEWCxxhZAZVX3wLPMaREJMcyA6UJ8ho8rYSEoLdsa1c/edit?slide=id.p#slide=id.p)  
