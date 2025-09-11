@@ -28,6 +28,7 @@ Watch before next class meeting: [How we're teaching computers to understand pic
 [Demo: Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
 [Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/)  
 [Team Project Overview: Agents]  
+Watch before next class meeting: [Illusion or Innovation: Secret of AI The Magic Box by rachel Chung](https://www.youtube.com/watch?v=kVLwAB9v338)  
 Read before next class meeting: [Word Embedding Demo: A Tutorial](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/tutorial.html)  
 Read before next class meeting (optional): [A Word is Worth A Thousand Vectors by Chris Moody at Stitch Fix](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)  
 
