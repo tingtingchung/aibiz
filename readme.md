@@ -27,7 +27,6 @@ Watch before next class meeting: [How we're teaching computers to understand pic
 [How Recommenders Work]  
 [Demo: Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
 [Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/)  
-[Team Project Overview: Agents]  
 Watch before next class meeting: [Illusion or Innovation: Secret of AI The Magic Box by rachel Chung](https://www.youtube.com/watch?v=kVLwAB9v338)  
 Read before next class meeting: [Word Embedding Demo: A Tutorial](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/tutorial.html)  
 Read before next class meeting (optional): [A Word is Worth A Thousand Vectors by Chris Moody at Stitch Fix](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)  
@@ -36,6 +35,7 @@ Read before next class meeting (optional): [A Word is Worth A Thousand Vectors b
 [Team #5 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Operartis](https://www.operartis.com/)    
 [Team #6 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Stitch Fix](https://algorithms-tour.stitchfix.com/)  
 [How GenAI Works](https://www.dropbox.com/scl/fi/l7cok2snp9s5ukzmy3fmv/EHUB-AI-by-Chung-2025-How-GenAI-Works.pptx?rlkey=mn68ljymfxdxvgoweapou1ojq&dl=0)  
+[Team Project Overview: Agents]  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/dev/ngrams/ngrams.html)  
 [TikTokenizer](https://tiktokenizer.vercel.app/)  
 [Worksheet #4: How LLMs Work] [solution]  
