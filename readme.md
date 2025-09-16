@@ -21,10 +21,10 @@ Watch before next class meeting: [How we're teaching computers to understand pic
 <b>Week 3: Computer vision and recommenders</b>  
 [Team #2 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [Neural Zestimate](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [No Team #3 or Team #4]  
-[How computer vision works]
+[Lecture: Vision + Recommenders](https://www.dropbox.com/scl/fi/2fjyzc8bpfzgjt9mle2l4/AIBiz-W3-Vision-Recommenders.pptx?rlkey=6wd6bqlx1tljfrxfk71bt6bw2&dl=0)  
+[Demo: AI Functions](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?usp=sharing)  
 [Demo: LandingLens](https://landing.ai/landinglens)  
-[Worksheet #3: Computer Vision] [solution]  
-[How Recommenders Work]  
+[Worksheet #3: Vision + Recommenders] [solution]  
 [Demo: Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
 [Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/)  
 [Just for fun: Learning Neural Networks - An online comic from Google AI](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE)  
