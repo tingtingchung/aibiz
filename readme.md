@@ -10,7 +10,7 @@ Watch before next class meeting: [How AI could empower any business by Andrew Ng
 
 <b>Week 2: From regression to classification</b>  
 [Team #1 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
-[Lecture: Regression to Classification](https://www.dropbox.com/scl/fi/wp2ilgind836tgv5aohwh/W2-Regression-to-Classification.pptx?rlkey=24uyc7r1xygk5tg5y0gfsjbx8&dl=0)  
+[Lecture: Regression to Classification](https://www.dropbox.com/scl/fi/wp2ilgind836tgv5aohwh/W2-Regression-to-Classification.pptx?rlkey=24uyc7r1xygk5tg5y0gfsjbx8&dl=0) [Softmax in Excel video](https://www.youtube.com/watch?v=kMetpM6BKmQ)    
 [Demo: AI Functions](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?usp=sharing)  
 [Demo: Backpropagation by Hand by Dr. Tom Yeh](https://www.byhand.ai/p/7-can-you-calculate-backpropagation)  
 [Worksheet #2: From regression to classification with Zestimate](https://docs.google.com/document/d/1oUyLIw3yVkqY7f64UeX39mL_l0wI1OXzAql1tDv7zOc/edit?tab=t.0) [solution]  
