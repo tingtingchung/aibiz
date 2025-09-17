@@ -13,7 +13,7 @@ Watch before next class meeting: [How AI could empower any business by Andrew Ng
 [Lecture: Regression to Classification](https://www.dropbox.com/scl/fi/wp2ilgind836tgv5aohwh/W2-Regression-to-Classification.pptx?rlkey=24uyc7r1xygk5tg5y0gfsjbx8&dl=0)  
 [Softmax in Excel video by Dr. Chung](https://www.youtube.com/watch?v=kMetpM6BKmQ)    
 [Demo: AI Functions](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?usp=sharing)  
-[Demo: Backpropagation by Hand by Dr. Tom Yeh](https://www.byhand.ai/p/7-can-you-calculate-backpropagation)  
+[Demo: Backpropagation by Hand by Dr. Tom Yeh](https://www.byhand.ai/p/backpropagation-spreadsheet)  
 [Worksheet #2: From regression to classification with Zestimate](https://docs.google.com/document/d/1oUyLIw3yVkqY7f64UeX39mL_l0wI1OXzAql1tDv7zOc/edit?tab=t.0) [solution]  
 [NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)   
 Watch before next class meeting: [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
