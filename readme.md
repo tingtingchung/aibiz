@@ -42,7 +42,6 @@ Read before next class meeting (optional): [A Word is Worth A Thousand Vectors b
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/dev/ngrams/ngrams.html)  
 [TikTokenizer](https://tiktokenizer.vercel.app/)  
 [Worksheet #4: How LLMs Work] [solution]  
-[Attention Google Sheets](https://tinyurl.com/4h5wvucu)  
 Read before next class meeting: [Playing with AI Fairness](https://pair-code.github.io/what-if-tool/ai-fairness.html)  
 Watch before next class meeting: [How I'm fighting bias in algorithms by Joy Buolamwini](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms) 
 
