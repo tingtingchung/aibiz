@@ -24,6 +24,7 @@ Watch before next class meeting: [How we're teaching computers to understand pic
 [No Team #3 or Team #4]  
 [Lecture: Vision + Recommenders](https://www.dropbox.com/scl/fi/2fjyzc8bpfzgjt9mle2l4/AIBiz-W3-Vision-Recommenders.pptx?rlkey=6wd6bqlx1tljfrxfk71bt6bw2&dl=0)  
 [Demo: AI Functions](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?usp=sharing)  
+[Demo: Teachable Machines](https://teachablemachine.withgoogle.com/)  
 [Demo: LandingLens](https://landing.ai/landinglens)  
 [Worksheet #3: Vision + Recommenders](https://docs.google.com/document/d/16w7A-h3rSFkIVxKcLGsBHFiLfS6iIfZvKHJAb72X37Q/edit?tab=t.0) [solution]  
 [Demo: Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
