@@ -50,7 +50,7 @@ Watch before next class meeting: [How I'm fighting bias in algorithms by Joy Buo
 <b>Week 5: AI Ethics</b>  
 [Team #7 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
 [Team #8 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AlphaAgent at Blackrock](https://arxiv.org/pdf/2508.11152)      
-[AI Ethics] 
+[AI Ethics]  
 [Anatomy of an AI System](https://anatomyof.ai/)  
 Read before next class meeting: [Gabriel, I., Keeling, G., Manzini, A., & Evans, J. (2025). We need a new ethics for a world of AI agents. Nature, 644(8075), 38-40.](https://www.nature.com/articles/d41586-025-02454-5)  
 Watch before next class meeting: [End of privacy by Michał Kosiński](https://www.youtube.com/watch?v=O4QhfqqSCVI)  
