@@ -45,7 +45,8 @@ Read before next class meeting (optional): [A Word is Worth A Thousand Vectors b
 [Demo: Self Attention Mechanism by Vizuara]  
 [Worksheet #4: GenAI + LLM](https://docs.google.com/document/d/1oerjYVGLDVWHhRzkgXegkuCCptpLYxpKiMfI2kCiF2g/edit?tab=t.0) [solution]  
 Read before next class meeting: [Playing with AI Fairness](https://pair-code.github.io/what-if-tool/ai-fairness.html)  
-Watch before next class meeting: [How I'm fighting bias in algorithms by Joy Buolamwini](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms) 
+Watch before next class meeting: [How I'm fighting bias in algorithms by Joy Buolamwini](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)  
+Read before next class meeting: [AI isn't replacing radiologists](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)  
 
 <b>Week 5: AI Ethics</b>  
 [Team #7 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
