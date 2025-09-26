@@ -53,6 +53,7 @@ Watch before next class meeting: [How I'm fighting bias in algorithms by Joy Buo
 [AI Ethics]  
 [Anatomy of an AI System](https://anatomyof.ai/)  
 Read before next class meeting: [Gabriel, I., Keeling, G., Manzini, A., & Evans, J. (2025). We need a new ethics for a world of AI agents. Nature, 644(8075), 38-40.](https://www.nature.com/articles/d41586-025-02454-5)  
+Read before next class meeting: [GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks](https://openai.com/index/gdpval/)  
 Watch before next class meeting: [End of privacy by Michał Kosiński](https://www.youtube.com/watch?v=O4QhfqqSCVI)  
 
 <b>Week 6</b>  
