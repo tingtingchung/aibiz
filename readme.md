@@ -55,7 +55,7 @@ Read before next class meeting: [AI isn't replacing radiologists](https://www.wo
 [Anatomy of an AI System](https://anatomyof.ai/)  
 Read before next class meeting: [Gabriel, I., Keeling, G., Manzini, A., & Evans, J. (2025). We need a new ethics for a world of AI agents. Nature, 644(8075), 38-40.](https://www.nature.com/articles/d41586-025-02454-5)  
 Read before next class meeting: [GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks](https://openai.com/index/gdpval/)  
-Watch before next class meeting: [End of privacy by Michał Kosiński](https://www.youtube.com/watch?v=O4QhfqqSCVI)  
+Watch before next class meeting: [AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference](https://www.youtube.com/watch?v=C3TqcUEFR58)  
 
 <b>Week 6</b>  
 [Team #9 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [JP Morgan](https://www.jpmorgan.com/technology/artificial-intelligence)  
