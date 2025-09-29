@@ -49,7 +49,6 @@ Watch before next class meeting: [How I'm fighting bias in algorithms by Joy Buo
 Read before next class meeting: [AI isn't replacing radiologists](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)  
 
 <b>Week 5: AI Ethics</b>  
-[Team #7 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
 [Team #8 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AlphaAgent at Blackrock](https://arxiv.org/pdf/2508.11152)      
 [AI Ethics]  
 [Demo: What-If Tool](https://pair-code.github.io/what-if-tool/demos/uci.html)  
@@ -59,6 +58,7 @@ Read before next class meeting: [GDPval: Evaluating AI Model Performance on Real
 Watch before next class meeting: [AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference](https://www.youtube.com/watch?v=C3TqcUEFR58)  
 
 <b>Week 6</b>  
+[Team #7 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Street](https://www.ai-street.co/) or [Dr. Tom Davenport](https://www.linkedin.com/in/davenporttom/)    
 [Team #9 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [JP Morgan](https://www.jpmorgan.com/technology/artificial-intelligence)  
 [Team #10 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AI Fund](https://aifund.ai/)  
 Individual Quiz  
