@@ -50,7 +50,7 @@ Read before next class meeting: [AI isn't replacing radiologists](https://www.wo
 
 <b>Week 5: AI Ethics</b>  
 [Team #8 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AlphaAgent at Blackrock](https://arxiv.org/pdf/2508.11152)      
-[AI Ethics](https://www.dropbox.com/scl/fi/ykh45or1hw4mjfw4e90k7/AIBiz-Ethics.pptx?rlkey=4khv8godlifzue4kidl56bhsq&dl=0)  
+[Lecture AI Ethics](https://www.dropbox.com/scl/fi/eawf1bz84q5lmn9zy48px/AIBiz-W5-Ethics.pptx?rlkey=8xe3tuk6s3ity8be4v8ll511v&dl=0)   
 [Demo: What-If Tool](https://pair-code.github.io/what-if-tool/demos/compas.html)  
 [Exercise: Fairness](https://docs.google.com/document/d/1tV7PjntoIiaQG70ja-epIoHkyJNbx4ke4dztpNpcMqM/edit?tab=t.0)  
 [Anatomy of an AI System](https://anatomyof.ai/)  
