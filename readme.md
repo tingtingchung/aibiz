@@ -14,7 +14,7 @@ Watch before next class meeting: [How AI could empower any business by Andrew Ng
 [Softmax in Excel video by Dr. Chung](https://www.youtube.com/watch?v=kMetpM6BKmQ)    
 [Demo: AI Functions](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?usp=sharing)  
 [Demo: Backpropagation by Hand by Dr. Tom Yeh](https://www.byhand.ai/p/backpropagation-spreadsheet)  
-[Worksheet #2: From regression to classification with Zestimate](https://docs.google.com/document/d/1oUyLIw3yVkqY7f64UeX39mL_l0wI1OXzAql1tDv7zOc/edit?tab=t.0) [solution]  
+[Worksheet #2: From regression to classification with Zestimate](https://docs.google.com/document/d/1oUyLIw3yVkqY7f64UeX39mL_l0wI1OXzAql1tDv7zOc/edit?tab=t.0)  
 [NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)   
 Watch before next class meeting: [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
 Watch before next class meeting: [How we're teaching computers to understand pictures by Dr. Fei-fei Li](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures)  
@@ -26,7 +26,7 @@ Watch before next class meeting: [How we're teaching computers to understand pic
 [Demo: AI Functions](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?usp=sharing)  
 [Demo: Teachable Machines](https://teachablemachine.withgoogle.com/)  
 [Demo: LandingLens](https://landing.ai/landinglens)  
-[Worksheet #3: Vision + Recommenders](https://docs.google.com/document/d/16w7A-h3rSFkIVxKcLGsBHFiLfS6iIfZvKHJAb72X37Q/edit?tab=t.0) [solution]  
+[Worksheet #3: Vision + Recommenders](https://docs.google.com/document/d/16w7A-h3rSFkIVxKcLGsBHFiLfS6iIfZvKHJAb72X37Q/edit?tab=t.0)  
 [Demo: Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
 [Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/)  
 [Just for fun: Learning Neural Networks - An online comic from Google AI](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE)  
@@ -43,15 +43,16 @@ Read before next class meeting (optional): [A Word is Worth A Thousand Vectors b
 [Demo: Small Language Model](https://www.cs.cmu.edu/~pvirtue/AIS/dev/ngrams/ngrams.html)  
 [Demo: TikTokenizer](https://tiktokenizer.vercel.app/)  
 [Demo: Self Attention Mechanism by Vizuara]  
-[Worksheet #4: GenAI + LLM](https://docs.google.com/document/d/1oerjYVGLDVWHhRzkgXegkuCCptpLYxpKiMfI2kCiF2g/edit?tab=t.0) [solution]  
+[Worksheet #4: GenAI + LLM](https://docs.google.com/document/d/1oerjYVGLDVWHhRzkgXegkuCCptpLYxpKiMfI2kCiF2g/edit?tab=t.0)  
 Read before next class meeting: [Playing with AI Fairness](https://pair-code.github.io/what-if-tool/ai-fairness.html)  
 Watch before next class meeting: [How I'm fighting bias in algorithms by Joy Buolamwini](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)  
 Read before next class meeting: [AI isn't replacing radiologists](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists)  
 
 <b>Week 5: AI Ethics</b>  
 [Team #8 Brief](https://docs.google.com/presentation/d/1WRdHlMSOkMpRUIR2R0TycZz35keZ_28dKq5AkOy0ytE/edit?usp=drive_link): [AlphaAgent at Blackrock](https://arxiv.org/pdf/2508.11152)      
-[AI Ethics]  
-[Demo: What-If Tool](https://pair-code.github.io/what-if-tool/demos/uci.html)  
+[AI Ethics](https://www.dropbox.com/scl/fi/ykh45or1hw4mjfw4e90k7/AIBiz-Ethics.pptx?rlkey=4khv8godlifzue4kidl56bhsq&dl=0)  
+[Demo: What-If Tool](https://pair-code.github.io/what-if-tool/demos/compas.html)  
+[Exercise: Fairness](https://docs.google.com/document/d/1tV7PjntoIiaQG70ja-epIoHkyJNbx4ke4dztpNpcMqM/edit?tab=t.0)  
 [Anatomy of an AI System](https://anatomyof.ai/)  
 Read before next class meeting: [Gabriel, I., Keeling, G., Manzini, A., & Evans, J. (2025). We need a new ethics for a world of AI agents. Nature, 644(8075), 38-40.](https://www.nature.com/articles/d41586-025-02454-5)  
 Read before next class meeting: [GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks](https://openai.com/index/gdpval/)  
