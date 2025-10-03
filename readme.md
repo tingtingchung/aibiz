@@ -26,7 +26,7 @@ Watch before next class meeting: [How we're teaching computers to understand pic
 [Demo: AI Functions](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?usp=sharing)  
 [Demo: Teachable Machines](https://teachablemachine.withgoogle.com/)  
 [Demo: LandingLens](https://landing.ai/landinglens)  
-[Worksheet #3: Vision + Recommenders](https://docs.google.com/document/d/16w7A-h3rSFkIVxKcLGsBHFiLfS6iIfZvKHJAb72X37Q/edit?tab=t.0)  
+[Worksheet #3: Vision + Recommenders](https://docs.google.com/document/d/16w7A-h3rSFkIVxKcLGsBHFiLfS6iIfZvKHJAb72X37Q/edit?tab=t.0) [solution](https://docs.google.com/document/d/1rViTiMbWpiT-4KA83cJMRVaTCsZRtfvN-UGvow0xe80/edit?tab=t.0)    
 [Demo: Tensorflow Embedding Projector](https://projector.tensorflow.org/)  
 [Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/)  
 [Just for fun: Learning Neural Networks - An online comic from Google AI](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE)  
