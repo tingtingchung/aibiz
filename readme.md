@@ -65,4 +65,5 @@ Watch before next class meeting: [AI Snake Oil: What Artificial Intelligence Can
 Individual Quiz  
 Read before next class meeting: [Lichtinger, Guy and Hosseini Maasoum, Seyed Mahdi, Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data (August 31, 2025). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)   
 <b>Week 7</b>  
+[Lecture: Let's Celebrate!](https://www.dropbox.com/scl/fi/y44ifg6w7v6yo0u4utxlq/AIBiz-W7-Lets-Celebrate.pptx?rlkey=7ek1xaoj39dbbhpg63fnj5i5r&dl=0)  
 [Final Team Presentations](https://docs.google.com/presentation/d/1SEWCxxhZAZVX3wLPMaREJMcyA6UJ8ho8rYSEoLdsa1c/edit?slide=id.p#slide=id.p)  
