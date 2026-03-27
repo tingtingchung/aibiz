@@ -1,4 +1,4 @@
-This course introduces what AI is, what AI is not, and how AI models work to business students. With a conceptual understanding of the mathematical underpinnings of AI, students develop skills to examine the use of AI and GenAI in major areas of business, use GenAI to support business processes or opportunities, and explain business risks, ethics, and societal implications of how current AI models work. No coding experience is needed.    
+This course introduces what AI is, what AI is not, and how AI models work to business students. With a conceptual understanding of AI models from a mathematical perspective, business students develop skills to examine the use of AI and GenAI in major areas of business, use GenAI to support business processes or opportunities, and explain business risks, ethics, and societal implications of how current AI models work. No coding experience is needed.    
 
 **Learning Objectives**  
 1.	Explain how AI models work (vs. what AI is NOT).  
