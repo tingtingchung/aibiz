@@ -1,4 +1,10 @@
-This schedule is tentative and subject to change.
+This course introduces what AI is, what AI is not, and how AI models work to business students. With a conceptual understanding of the mathematical underpinnings of AI, students develop skills to examine the use of AI and GenAI in major areas of business, use GenAI to support business processes or opportunities, and explain business risks, ethics, and societal implications of how current AI models work. No coding experience is needed.    
+
+**Learning Objectives**  
+1.	Explain how AI models work (vs. what AI is NOT).  
+2.	Examine the use of GenAI in major areas of business.  
+3.	Use GenAI to support a business process or opportunity.  
+4.	Explain opportunities, risks, business, and societal implications of how current AI models work.  
 
 <b>Week 1: From a single neuron to neural networks</b>  
 [Course Overview](https://www.dropbox.com/scl/fi/rlvdjgutlu7fmgndvveg5/AIBiz-Course-Overview.pptx?rlkey=1dnztlzw4erxmehbjw1s44af7&dl=0)    
